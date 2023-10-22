@@ -5,7 +5,7 @@ of the sql queries, but I learned a lot of things while getting AI support.
 
 ‎‎‎Features:
 
-Login function  -- https://prnt.sc/qUpqqInBdOe6
+Login -- https://prnt.sc/qUpqqInBdOe6
 
 Menu -- https://prnt.sc/rsiuk441wsRK
 
